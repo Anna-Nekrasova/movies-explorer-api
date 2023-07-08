@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://mesto.practicum.nomoredomains.work', // исправить тут
-  'http://mesto.practicum.nomoredomains.work', // и тут
+  'https://fr.movies.explorer.nomoredomains.work',
+  'http://fr.movies.explorer.nomoredomains.work',
   'localhost:3000',
 ];
 
